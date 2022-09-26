@@ -1,7 +1,7 @@
 # XML to s3 Project
 Python Project to parse data based on specific conditions and load the final csv data to s3.
 
-Requirements:
+### Requirements:
   1. Download the xml from this [link](https://registers.esma.europa.eu/solr/esma_registers_firds_files/select?q=*&fq=publication_date:%5B2021-01-17T00:00:00Z+TO+2021-01-19T23:59:59Z%5D&wt=xml&indent=true&start=0&rows=100)
   2. From the xml, please parse through to the first download link whose file_type is DLTINS and download the zip
   3. Extract the xml from the zip.
