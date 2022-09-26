@@ -14,3 +14,9 @@ Python Project to parse data based on specific conditions and load the final csv
       Issr
   5. Store the csv from step 4) in an AWS S3 bucket
   6. The above function should be run as an AWS Lambda (Optional)
+
+### Instructions:
+  1. Install requirements from requirements.txt file
+  2. To run script, use "python code.py"
+  3. To run test, use "python -m unittest code_test.py"
+ 
