@@ -17,7 +17,7 @@ Python Project to parse data based on specific conditions and load the final csv
 
 ### Instructions:
   1. Install requirements from requirements.txt file
-  2. Configure aws credentials inside code.py (access key id and secret access key)
+  2. Configure aws credentials inside code.py (access key id ,secret access key and s3 bucket name)
   3. To run script, use "python code.py"
   4. To run test, use "python -m unittest code_test.py"
  
